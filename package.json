@@ -1,0 +1,12 @@
+{
+  "name": "management-of-properties-for-airbnb-houses-i0p7wk",
+  "version": "1.0.0",
+  "description": "Generated project for management-of-properties-for-airbnb-houses-i0p7wk",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
